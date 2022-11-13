@@ -1,0 +1,58 @@
+[   
+     {
+        "id" : 1,
+        "name" : "Bikes",
+        "image" : "./public/cosmetic.png"
+
+    },
+
+    {
+        "id" : 2,
+        "name" : "Cars",
+        "image" : "./public/cosmetic.png"
+
+    },
+    
+    {
+        "id" : 3,
+        "name" : "Fashion",
+        "image" : "./public/fashion.png"
+
+    },
+    
+    {
+        "id" : 4,
+        "name" : "cosmetic",
+        "image" : "./public/cosmetic.png"
+
+    },
+
+    {
+        "id" : 5,
+        "name" : "Bikes",
+        "image" : "./public/cosmetic.png"
+
+    },
+
+    {
+        "id" : 6,
+        "name" : "Cars",
+        "image" : "./public/cosmetic.png"
+
+    },
+    
+    {
+        "id" : 7,
+        "name" : "Fashion",
+        "image" : "./public/fashion.png"
+
+    },
+    
+    {
+        "id" : 8,
+        "name" : "cosmetic",
+        "image" : "./public/cosmetic.png"
+
+    }
+    
+]
