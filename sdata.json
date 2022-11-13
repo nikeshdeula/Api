@@ -46,13 +46,6 @@
         "name" : "Fashion",
         "image" : "./public/fashion.png"
 
-    },
-    
-    {
-        "id" : 8,
-        "name" : "cosmetic",
-        "image" : "./public/cosmetic.png"
-
     }
     
 ]
