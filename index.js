@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8000;
 
 app.use(cors());
 
@@ -15,6 +15,6 @@ app.get("/"), (res, req) => {
     }
 
     app.listen(port, () => {
-        console.log("Still Connected");
+        console.log(`Still Connected ${port}`);
     });
 
